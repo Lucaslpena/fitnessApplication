@@ -1,6 +1,8 @@
 # fitnessApplication
 objC iOS7-8 previous startup application powered by Parse from 2014
 
+Checkout screenshots in ./screenshots
+
 Noteable 'features':
 * In app chat
 * Facebook Login 
